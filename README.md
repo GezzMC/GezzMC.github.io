@@ -1,1 +1,2 @@
-# GezzMC.github.io
+# GezuMC.github.io
+GezuMath Blog
